@@ -17,3 +17,14 @@ References:
 
 BLEU is used for the evaluation criteria:
 https://aclanthology.org/P02-1040.pdf
+
+Global Attention
+
+
+![image](https://user-images.githubusercontent.com/15967484/158950314-9f630478-6f93-444c-b661-10270469911a.png)
+
+Local Attention
+
+
+![image](https://user-images.githubusercontent.com/15967484/158950414-1b3cb8cb-3013-4a0f-8c12-529a7e142c86.png)
+
