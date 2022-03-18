@@ -14,3 +14,6 @@ References:
 2. https://www.tensorflow.org/text/tutorials/nmt_with_attention#translate
 3. https://stackoverflow.com/questions/44238154/what-is-the-difference-between-luong-attention-and-bahdanau-attention#:~:text=Luong%20attention%20used%20top%20hidden,hidden%20state%20at%20time%20t.
 4. https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+
+BLEU is used for the evaluation criteria:
+https://aclanthology.org/P02-1040.pdf
