@@ -1,5 +1,5 @@
 # machine-translation
-Machine translation is an application of RNN wherein the sentence is translated from one language to another, such as Google translate. The sentences are time-dependent, and the position of words in a sentence is of utmost importance. Two variants of Seq2Seq models are implemented, such as Vanilla and Attention Mechanism. Sequence-2-Sequence is a combination of Encoder & Decoder models. 
+Machine translation is an application of RNN wherein the sentence is translated from one language to another, such as Google translate. The sentences are time-dependent, and the position of words in a sentence is of utmost importance. Two variants of Sequence-2-Sequence (Seq2Seq) models are implemented, such as Vanilla and Attention Mechanism. Seq2Seq is a combination of Encoder & Decoder models. 
 
 Further, three variants of Attention Mechanisms are implemented:
 1. Dot (Luong)
